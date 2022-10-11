@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nurmuhammad0106
 - 👀 I’m interested in mobile application
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 nurmuhammad0106@gmail.com
 
